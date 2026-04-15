@@ -92,12 +92,10 @@ flowchart LR
 
 ---
 
-## Citation and References
+## References
 
 If you find this project useful, please also consider citing the following foundational works related to the methods used in this repository:
 
-
-### References
 - Park, T., Efros, A. A., Zhang, R. and Zhu, J.-Y. *Contrastive Learning for Unpaired Image-to-Image Translation*. ECCV, 2020.
 - Isola, P., Zhu, J.-Y., Zhou, T. and Efros, A. A. *Image-to-Image Translation with Conditional Adversarial Networks*. CVPR, 2017.
 - Zhao, W., Zhao, S., Li, L. *et al.* *Sparse deconvolution improves the resolution of live-cell super-resolution fluorescence microscopy*. *Nature Biotechnology* 40, 606–617 (2022).
