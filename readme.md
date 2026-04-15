@@ -80,17 +80,7 @@ Extracts morphology and biophysical descriptors, including:
 
 ---
 
-## Workflow
 
-```mermaid
-flowchart LR
-    A[Label-free bright-field image] --> B[Preprocessing<br/>SDRNet]
-    B --> C[Virtual Staining<br/>WSCON]
-    C --> D[ROI-based quantitative analysis]
-    D --> E[Feature extraction]
-    E --> F[Stage I / II / III inference]
-
----
 
 ## References
 
